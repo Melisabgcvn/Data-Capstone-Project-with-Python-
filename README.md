@@ -1,5 +1,7 @@
-#örnek boyunca oluşan variables
+#ÖRNEK BOYUNCA OLUŞAN VARİABLES
 # Data-Capstone-Project-with-Python-<img width="915" alt="Ekran Resmi 2022-04-09 14 51 08" src="https://user-images.githubusercontent.com/96236352/162572926-df0b9655-9a33-441d-9920-e9d59a92186a.png">
+
+#ÖRNEK BOYUNCA KULLANILAN BAZI GRAFİKLER
 
 #sns.countplot(x='Reason',data=df)
 <img width="414" alt="Ekran Resmi 2022-04-09 14 54 26" src="https://user-images.githubusercontent.com/96236352/162573024-727ca412-b5f3-4065-aae5-083349392e07.png">
@@ -31,9 +33,5 @@ df[df['Reason']== 'Traffic'].groupby('Date').count()['lat'].plot()
 
 #figsize,ax = plt.subplots(figsize=(10,8)) 
 #sns.heatmap(data=dayMonth,cmap='viridis',ax=ax)
-
-
-
-
-
+<img width="584" alt="Ekran Resmi 2022-04-09 14 59 45" src="https://user-images.githubusercontent.com/96236352/162573259-d287f683-ff06-4765-8b4e-61b795e2e848.png">
 
