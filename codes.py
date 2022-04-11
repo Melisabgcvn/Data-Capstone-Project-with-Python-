@@ -1,3 +1,5 @@
+##Jose Portilla python for data science and machine learning bootcamp Bölüm:13 örneği ##
+
 import numpy as np
 import pandas as pd
 import seaborn as sns
